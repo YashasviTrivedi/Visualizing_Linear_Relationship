@@ -20,6 +20,6 @@ The project aims to analyze and visualize data from an Instagram dataset stored 
    - The 'fivethirtyeight' style is applied to the plot for a specific aesthetic.
    - A title, "Relationship Between Likes and Impressions," is added to the plot.
 
-The project appears to focus on exploring and visualizing the correlation between 'Impressions' and 'Likes' on Instagram, using two different plotting libraries (Plotly Express and Matplotlib/Seaborn) to provide different perspectives on the data.
+The project focuses on exploring and visualizing the correlation between 'Impressions' and 'Likes' on Instagram, using two different plotting libraries (Plotly Express and Matplotlib/Seaborn) to provide different perspectives on the data.
 
 This analysis and visualization can be valuable for understanding how Instagram impressions relate to the number of likes received and identifying any trends or patterns in the data.
